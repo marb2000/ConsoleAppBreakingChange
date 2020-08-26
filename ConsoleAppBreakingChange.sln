@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30420.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppBreakingChange", "ConsoleAppBreakingChange\ConsoleAppBreakingChange.csproj", "{960E8F56-6E30-44A8-BD3C-C2118A66C7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryWithWinRT", "ClassLibraryWithWinRT\ClassLibraryWithWinRT.csproj", "{C2F20D77-3FBF-426A-B293-3662CD57676C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960E8F56-6E30-44A8-BD3C-C2118A66C7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960E8F56-6E30-44A8-BD3C-C2118A66C7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960E8F56-6E30-44A8-BD3C-C2118A66C7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960E8F56-6E30-44A8-BD3C-C2118A66C7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F20D77-3FBF-426A-B293-3662CD57676C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F20D77-3FBF-426A-B293-3662CD57676C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F20D77-3FBF-426A-B293-3662CD57676C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F20D77-3FBF-426A-B293-3662CD57676C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B6C755-DA75-4CE8-9E9B-260E5CC8ECED}
+	EndGlobalSection
+EndGlobal
